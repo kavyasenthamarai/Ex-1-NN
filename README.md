@@ -36,8 +36,8 @@ STEP 6:Splitting the data into test and train<BR>
 
 ## PROGRAM:
 ```
-<H3>ENTER YOUR NAME</H3> KAVYA K
-<H3>ENTER YOUR REGISTER NO.</H3> 212222230065
+KAVYA K
+212222230065
 ```
 Import Libraries
 ```
