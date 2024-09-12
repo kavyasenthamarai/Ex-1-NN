@@ -1,5 +1,3 @@
-<H3>ENTER YOUR NAME</H3> KAVYA K
-<H3>ENTER YOUR REGISTER NO.</H3> 212222230065
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
@@ -37,7 +35,10 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ## PROGRAM:
-
+```
+<H3>ENTER YOUR NAME</H3> KAVYA K
+<H3>ENTER YOUR REGISTER NO.</H3> 212222230065
+```
 Import Libraries
 ```
 
